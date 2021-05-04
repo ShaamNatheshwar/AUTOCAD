@@ -1,0 +1,27 @@
+for working with feet and inches choose dwt
+metrcic acadiso.dwt (MM,CM,KM...)
+     UN-for unit
+FOR iso and metric drawing we can use decimal fractional scientific
+feet and inches - architectural and engineering
+Insertion scale - if some new drawings are introduced ... it matches it with the stuff mentioned
+
+for drawing lines - l
+customization >> dynamic input on and off for showing guides
+polar tracking for getting lines in straight
+use middle mouse button and drag it
+   undo - as the name does
+   close - connects it with a final line
+   exit - for exiting from current position
+object snap - show connected objects
+incase of object snap it should be mentioned where to be snapped so on
+      perpendicularly or endpoint so on
+      tangent object snap say from one side of circle to another circle 
+      quadrant - 4 quadrant of circles
+press shift + rightclick
+
+E + enter for erasing
+
+circle -
+    can be choosed either based on diameter or radius
+Middle button - zooimng in and out
+     
