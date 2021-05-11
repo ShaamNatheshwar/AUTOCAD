@@ -1,0 +1,47 @@
+for drawing in feet and inches use acad.dwt
+
+choose architectural or engineering for  feet and inches
+
+ use quick properties to show line stuffs so on
+ 
+   for mentioning in feet and inches use this
+      2'6 = for 2 feet 6 inches 
+        use engineering for this
+        
+for fractional units use architectural
+       for six and half inches
+        6-1/2
+        for two feet six and one by four inches
+        2'-6 1/4
+        
+use offset command to draw // lines
+   mention at where u have to place say 500 like tht
+   use multiple option to click on multiple times
+   
+for choosing offsets along with points use through
+
+same way we can concentric circles
+
+use trim to cut stuffs if they are passing through
+
+use shift and lmb to increase the size and other  stuffs
+ 
+ 
+for extend
+click on the object and and extend till tht 
+extend can also be used as a trim
+
+for measuring the distance of points click on utilities and chose one point to another it will also measure radius and other stuffs
+  for checking the say like cirle along with lines choose area and circle
+  
+quick - 
+shows all the necessary 
+
+use zoom stuffs to zoom in the way we  like
+      
+      
+      
+      
+      
+      
+      
