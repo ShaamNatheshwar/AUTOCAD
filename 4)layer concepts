@@ -1,0 +1,48 @@
+for drawing in new new colors we will be needing layers
+     LA + enter
+         name the layer
+           colors can be accessed by 3 ways 
+             for accessing different lines load them and find it
+               delete layer using delete 
+                 make sure it is empty
+                   set the layer on which we are gonna work
+     
+     we can access the drawing using the upper stuff
+         press LTS for scaling the line like reducing the size of line like tht
+     
+     
+     for arraying 
+         use the array key in the top of the navbar
+             place it on the edges and press enter then place it on the center of the circle
+               for getting circles all over the place
+                 
+     click on line width to show the display
+        
+        
+        for changing the layer 
+          lmb on the object and 
+          
+          use properties match properties click on them
+          
+          those basic bulb for viewing and unviewing, freeze for freezing obj, 
+          
+      for inclined elipse make ortho mode on
+         
+         
+         for making a polygon (pol)
+            we have to mention its sides
+             for circumferenced usse face to face
+              for inscribed use corner to corner
+               for edged use edge dont't specify the center point instead go for edge at the bottoom
+               
+         snippet tools helps in drawing arcs just selct the part to arc with snippet tool and click which side to be arc
+            use polyline incase if u made shapes with polygonal
+            
+            
+            
+            
+            
+            
+                
+     
+     
