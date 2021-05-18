@@ -1,0 +1,90 @@
+move -
+   m enter
+   there are diff ways to select it
+     if we move from left to right window selection only inside object is selected
+      if we move from right to left cross window selection only inside object is selected 
+          press w for forcing window selection
+            press c for forcing cross window selection
+             use shift to remove items
+               
+               
+               important
+                  press obj , press enter specify the end point
+                  
+use reference to rotate with specified line
+      
+for copy 
+same procedures make also mention how many elements we want too
+
+blend curves 
+   this helps creating a curved lines
+   
+stretch
+   stretch uses cross window also the items which are selected will be stretched
+   we can also use a reference to join
+   
+ array 
+   for gaining multiple array
+   use replace the item
+       by drawing it and drag dropping
+   use edit source by  clicking the item
+ 
+ explode
+    use the explode to seperate induviduall commands
+    
+path array 
+   drawing the items over a spline
+   
+polar array 
+   for copying array in polar form
+   for showing center point take cursor to centre
+   
+lengthen to lengthen the height of anything
+press delta for lengthening
+reduce by %
+total size for how much size we wanr
+dynamic till we go on
+
+align
+  used to align to objects
+    specify two times and stuffs will be aligned accordingly
+    
+break-
+  to break bw two points
+
+break at point
+   two break at a specific point no need to remove fully 
+
+join
+  for joining 2 boken line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+                
+  
+  
