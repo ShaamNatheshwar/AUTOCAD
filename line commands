@@ -1,0 +1,79 @@
+poly line
+  any stuff tht is created will be a single object 
+    use explode and join for vice versa
+    arc can also be created along the polyline
+    
+   area measuring is easy 
+      utilities measure area and click the solid for getting area
+      
+use boundary command to check the area of super colloided stuffs
+
+offset 
+   offset polyline in or out
+   
+   can also make arrows using start width as zero and end something
+   
+arc -
+   it is always in anticlockwise direction
+   
+   
+   use tab to change the width and height of the stuffs
+   
+rectangle 
+        we can create a variety  of rectangle using variety of rectangle
+        chamber cutted rectangle
+        fillet circular one
+        
+       for viewing thickness effect change from top view to isometric
+       
+spline
+    used to create  cuves
+    just play with them
+    
+spline control vertex
+   helps in aligning anol but in a bit different manner
+   
+construction line
+   jst creates infinte line
+   
+ray
+  infinte line in 1d
+  
+ptype for changing font type
+
+
+divide - 
+  divide them induvidually based on no.of points there
+  
+use measure to place points accordingly
+wipe out functions like a mask
+  can also be made by selecting a poly line
+  
+donut
+ for circle like donut ...no need inner cicle don't mention inner thickness 
+ 
+clouds
+  for different clouds mention as such
+
+    
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
