@@ -1,0 +1,27 @@
+click dimension
+  make sure no obj snap is selected and drag it down
+  for increasing the dimension size
+     click on annotations iso something and modify fit and ooverall size
+     for align mode turn off orthomode
+     usse jogged line if our sheet exceedds stuff
+     for getting a continous dimension use continue
+     and for distributing the dimension equally use distributive property
+     click on the 2 lines for getting there respective angles
+     use reset text position for getting back again
+     use align dimension to align them in a centre
+     for changing zero position check on the dimensions and bring x,y close to it
+     we can also give dimensions induvidually
+     
+ Leader
+     for giving commands with arrow
+     annotation modify,leader structure scale
+     delete text override also make sure the both dimension and leader share same size
+     just play with dimension line and its style to get stuffs
+     
+     
+     
+     
+     for changing value use according to the field
+         move
+         for moving 2 obj just align thm accordingly from pressing mid point to midpoint
+       
