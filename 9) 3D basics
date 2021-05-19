@@ -1,0 +1,81 @@
+for getting 3d tools
+   there will be a arrow in the bottom and selcted 3D modelling
+   near setting like thing
+   
+   
+for viewing z axis
+  change it into SE isometric
+   
+for shifting origin
+  press ucsicon and no origin
+  
+  
+  for getting a 3d
+     draw 2d in xy axis and give it a thickness in z axis
+     once done make sure it is close
+     use press pull to create 3d
+     
+     
+  the things will be shown in 2d wire frame in order to avoid them change them into soli
+  make sure to turnoff grid if we don't want it
+  
+  incase if we are gonna draw anything it may have 2d frame in it
+     to remove the 2d frame use cross window and and remove the stuff needed to removed
+     
+  use copy edges to draw any cirle with reference to edge
+  select the edge , enter and dreaw mouse over a specified point and give the length
+  
+  
+if we feel dynamic ucs is a trouble remove tht
+
+click on multiple to select remaining portions
+shift + middle mouse btn + drag for viewing stuffs
+
+use move tool specify two source and ending point and place where ever needed
+use enter its a good practice
+
+use join tool to make the solid as a single object
+
+
+use ucs accordingle on which part you are working on
+top , left, bottom, right. so  on
+
+we can give our desired color by double clicking on it
+
+
+use extrude faces to gove color to the selected items
+use free orbit to rotate in any direction
+
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
