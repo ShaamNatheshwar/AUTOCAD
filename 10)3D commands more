@@ -1,0 +1,58 @@
+extrude
+   for making solid out of extrude we need to join all the lines
+   make extrude and its view accordingly for the block we are gonna be creating
+   make use of the direction and other options in the bottom
+   taper angle - + ive inward, - ive outward
+
+use the mode to make sure we use solid model or surface model
+for inclined object we will be using phase option
+
+  fillet -
+     helps in curving the edges we can either use chain or things accordingly
+     
+     solid history
+     this helps in getting grid
+     
+  box - 
+    for creating an easy block
+     using champer head along with box
+     
+     
+  3d mirror
+    this is used to create mirror across the 3 planes which we will mention
+    needs 3 stuffs
+ 
+ 3D align
+    use the align and give the necessary parametres so tht it is aligned 
+    
+  3d rotate 
+    use this for rotating objects there are 3 circles make sure we make them accordingly
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
